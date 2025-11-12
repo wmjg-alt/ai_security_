@@ -1,0 +1,13 @@
+
+
+Secrets are being sent via url parameters. perhaps we could have an invisible field and have the bot fill that. 
+Then reveal it to the user once it's been written into. Then the alarm bells go off and show the red security banner et all.
+thus we would not be taking in any secrets actually to the backend.
+
+Next we want to couch all of this in a webpage that AI will actually traffic. and I was thinking AI tools for finance are happening right now
+so perhaps we fill up the site with SEO for Ai securities, pages talking about metrics and trends. try to make it high priority to a bot seeking results for new finanace info on AI stocks etc.
+Point being, this page would get traffic. Not just buzzwords, but we gotta build out pages and SEO markers and make it friendly to bot search.
+
+If we can simplify further, we could make this all work on github pages and get traffic for the demo that way.
+
+We also want some way to read and print the demo_stats the sources, etc. (if that lasts through the simplification process.)
